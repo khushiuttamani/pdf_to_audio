@@ -1,9 +1,9 @@
 streamlit
-PyMuPDF
+PyMuPDF==1.23.7
 pytesseract
 pdf2image
 gTTS
 python-dotenv
 google-generativeai
 Pillow
-e.
+.e
