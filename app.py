@@ -102,7 +102,7 @@ def text_to_speech(text, filename="explanation_audio.mp3"):
 
 # === Streamlit App ===
 
-st.title("📄 PDF to Audio with AI Explanation & Feedback")
+st.title("📄 AI PDF to Audio Explanation")
 
 uploaded_pdf = st.file_uploader("Upload a PDF file", type=["pdf"])
 
