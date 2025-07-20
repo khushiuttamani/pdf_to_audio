@@ -1,4 +1,4 @@
-import xx_app as st
+import streamlit as st
 import os
 import tempfile # <--- ADD THIS LINE
 import models # Imports your models.py file
